@@ -1,0 +1,22 @@
+MySQL:
+
+    Integration Server
+        Host:       gizurcloud.colm85rhpnd4.eu-west-1.rds.amazonaws.com
+        User:       vtiger_integrati
+        Password:   ALaXEryCwSFyW5jQ
+        Database:   vtiger_integration
+        Port:       3306
+
+    vTiger Server
+        Refer to gizur-admin.
+
+FTP:
+
+    Host:       10.58.226.192
+    Username:   gizur
+    Password:   gizur
+    localpath:  cronsetfiles/
+    serverpath: files/
+
+Amazon Queue:
+    URL:        https://sqs.eu-west-1.amazonaws.com/065717488322/cikab_queue

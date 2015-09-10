@@ -1,0 +1,21 @@
+/**
+ * This file contains common css used throughout Gizur SaaS.
+ *
+ * @package    Gizur SaaS
+ * @subpackage CSS
+ * @author     Prabhat Khera <gizur-ess-prabhat@gizur.com>
+ * @version    SVN: $Id$
+ *
+ * @license    Commercial license
+ * @copyright  Copyright (c) 2012, Gizur AB, 
+ * <a href="http://gizur.com">Gizur Consulting</a>, All rights reserved.
+ *
+ * CSS Version 3
+ *
+ */
+body {
+    padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+}
+.container {
+    padding-top: 20px;
+}

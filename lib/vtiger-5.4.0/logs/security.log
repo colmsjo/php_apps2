@@ -1,0 +1,46 @@
+Wed Jun 17 06:51:18 2015,066 [26525] DEBUG SECURITY - ########  Module -->  Users  :: Action --> Authenticate ::  UserID -->  :: RecordID -->  #######
+Wed Jun 17 06:51:18 2015,066 [26525] DEBUG SECURITY - ########### Pemitted ---> yes  ##############
+Wed Jun 17 06:51:29 2015,680 [26546] DEBUG SECURITY - ########  Module -->  Users  :: Action --> Authenticate ::  UserID -->  :: RecordID -->  #######
+Wed Jun 17 06:51:29 2015,680 [26546] DEBUG SECURITY - ########### Pemitted ---> yes  ##############
+Wed Jun 17 06:51:30 2015,451 [26546] DEBUG SECURITY - ########  Module -->  Home  :: Action --> index ::  UserID --> 1001 :: RecordID -->  #######
+Wed Jun 17 06:51:30 2015,451 [26546] DEBUG SECURITY - ########### Pemitted ---> yes  ##############
+Wed Jun 17 06:51:35 2015,570 [26543] DEBUG SECURITY - ########  Module -->  Home  :: Action --> HomeAjax ::  UserID --> 1001 :: RecordID -->  #######
+Wed Jun 17 06:51:35 2015,570 [26543] DEBUG SECURITY - ########### Pemitted ---> yes  ##############
+Wed Jun 17 06:51:36 2015,177 [26583] DEBUG SECURITY - ########  Module -->  Dashboard  :: Action --> DashboardAjax ::  UserID --> 1001 :: RecordID -->  #######
+Wed Jun 17 06:51:36 2015,179 [26583] DEBUG SECURITY - ########### Pemitted ---> yes  ##############
+Wed Jun 17 06:52:17 2015,332 [26546] DEBUG SECURITY - ########  Module -->  HelpDesk  :: Action --> index ::  UserID --> 1001 :: RecordID -->  #######
+Wed Jun 17 06:52:17 2015,333 [26546] DEBUG SECURITY - ########### Pemitted ---> yes  ##############
+Thu Jun 18 14:02:08 2015,759 [16457] DEBUG SECURITY - ########  Module -->  Users  :: Action --> Authenticate ::  UserID -->  :: RecordID -->  #######
+Thu Jun 18 14:02:08 2015,760 [16457] DEBUG SECURITY - ########### Pemitted ---> yes  ##############
+Fri Jul 17 08:38:40 2015,508 [2119] DEBUG SECURITY - ########  Module -->  Users  :: Action --> Authenticate ::  UserID -->  :: RecordID -->  #######
+Fri Jul 17 08:38:40 2015,508 [2119] DEBUG SECURITY - ########### Pemitted ---> yes  ##############
+Fri Jul 17 08:38:41 2015,445 [2119] DEBUG SECURITY - ########  Module -->  Home  :: Action --> index ::  UserID --> 1001 :: RecordID -->  #######
+Fri Jul 17 08:38:41 2015,445 [2119] DEBUG SECURITY - ########### Pemitted ---> yes  ##############
+Fri Jul 17 08:39:01 2015,289 [3402] DEBUG SECURITY - ########  Module -->  Dashboard  :: Action --> DashboardAjax ::  UserID --> 1001 :: RecordID -->  #######
+Fri Jul 17 08:39:01 2015,291 [3402] DEBUG SECURITY - ########### Pemitted ---> yes  ##############
+Fri Jul 17 08:39:01 2015,493 [2477] DEBUG SECURITY - ########  Module -->  Home  :: Action --> HomeAjax ::  UserID --> 1001 :: RecordID -->  #######
+Fri Jul 17 08:39:01 2015,494 [2477] DEBUG SECURITY - ########### Pemitted ---> yes  ##############
+Fri Jul 17 08:47:29 2015,356 [3403] DEBUG SECURITY - ########  Module -->  Settings  :: Action --> index ::  UserID --> 1001 :: RecordID -->  #######
+Fri Jul 17 08:47:29 2015,356 [3403] DEBUG SECURITY - ########### Pemitted ---> yes  ##############
+Fri Jul 17 08:58:40 2015,441 [3535] DEBUG SECURITY - ########  Module -->  Settings  :: Action --> ModuleManager ::  UserID --> 1001 :: RecordID -->  #######
+Fri Jul 17 08:58:40 2015,441 [3535] DEBUG SECURITY - ########### Pemitted ---> yes  ##############
+Fri Jul 17 09:10:20 2015,903 [3529] DEBUG SECURITY - ########  Module -->  Settings  :: Action --> ModuleManager ::  UserID --> 1001 :: RecordID -->  #######
+Fri Jul 17 09:10:20 2015,904 [3529] DEBUG SECURITY - ########### Pemitted ---> yes  ##############
+Fri Jul 17 09:10:25 2015,513 [3529] DEBUG SECURITY - ########  Module -->  Settings  :: Action --> LayoutBlockList ::  UserID --> 1001 :: RecordID -->  #######
+Fri Jul 17 09:10:25 2015,513 [3529] DEBUG SECURITY - ########### Pemitted ---> yes  ##############
+Fri Jul 17 09:11:07 2015,270 [2475] DEBUG SECURITY - ########  Module -->  Settings  :: Action --> SettingsAjax ::  UserID --> 1001 :: RecordID -->  #######
+Fri Jul 17 09:11:07 2015,271 [2475] DEBUG SECURITY - ########### Pemitted ---> yes  ##############
+Fri Jul 17 09:11:43 2015,049 [3535] DEBUG SECURITY - ########  Module -->  Settings  :: Action --> SettingsAjax ::  UserID --> 1001 :: RecordID -->  #######
+Fri Jul 17 09:11:43 2015,050 [3535] DEBUG SECURITY - ########### Pemitted ---> yes  ##############
+Mon Jul 20 06:48:13 2015,790 [15580] DEBUG SECURITY - ########  Module -->  Users  :: Action --> Authenticate ::  UserID -->  :: RecordID -->  #######
+Mon Jul 20 06:48:13 2015,790 [15580] DEBUG SECURITY - ########### Pemitted ---> yes  ##############
+Mon Jul 20 06:48:14 2015,671 [15580] DEBUG SECURITY - ########  Module -->  Home  :: Action --> index ::  UserID --> 1001 :: RecordID -->  #######
+Mon Jul 20 06:48:14 2015,671 [15580] DEBUG SECURITY - ########### Pemitted ---> yes  ##############
+Mon Jul 20 06:48:33 2015,178 [17777] DEBUG SECURITY - ########  Module -->  Dashboard  :: Action --> DashboardAjax ::  UserID --> 1001 :: RecordID -->  #######
+Mon Jul 20 06:48:33 2015,180 [17777] DEBUG SECURITY - ########### Pemitted ---> yes  ##############
+Mon Jul 20 06:48:33 2015,384 [16213] DEBUG SECURITY - ########  Module -->  Home  :: Action --> HomeAjax ::  UserID --> 1001 :: RecordID -->  #######
+Mon Jul 20 06:48:33 2015,384 [16213] DEBUG SECURITY - ########### Pemitted ---> yes  ##############
+Mon Jul 20 06:49:33 2015,964 [17780] DEBUG SECURITY - ########  Module -->  HelpDesk  :: Action --> index ::  UserID --> 1001 :: RecordID -->  #######
+Mon Jul 20 06:49:33 2015,965 [17780] DEBUG SECURITY - ########### Pemitted ---> yes  ##############
+Mon Jul 20 06:49:40 2015,675 [17780] DEBUG SECURITY - ########  Module -->  HelpDesk  :: Action --> EditView ::  UserID --> 1001 :: RecordID -->  #######
+Mon Jul 20 06:49:40 2015,676 [17780] DEBUG SECURITY - ########### Pemitted ---> yes  ##############

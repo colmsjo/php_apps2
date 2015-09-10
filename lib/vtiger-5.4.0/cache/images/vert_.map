@@ -1,0 +1,6 @@
+<img src="cache/images/vert_" border="0" usemap="#cache/images/vert_">
+<map name="cache/images/vert_">
+	<area shape="rect" coords="83,128,161,129" href="index.php?module=Accounts&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner= Administrator&viewname=4" alt="Organizations=%d" title="Organizations=%d">
+	<area shape="rect" coords="254,108,332,129" href="index.php?module=Contacts&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner= Administrator&viewname=7" alt="Contacts=%d" title="Contacts=%d">
+	<area shape="rect" coords="425,32,503,129" href="index.php?module=HelpDesk&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner= Administrator&viewname=13" alt="Trouble Tickets=%d" title="Trouble Tickets=%d">
+</map>
